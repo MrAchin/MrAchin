@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAchin
 - 👀 I’m interested in ...Programming and having Fun with my family
-- 🌱 I’m currently learning ...Python, Machine Learning
+- 🌱 I’m can work with...Python, HTML5, CSS3, JavaScript, Bootstrap, Python GUI, Pandas, NumPy, OpenCV.
 - 💞️ I’m looking to collaborate on ...a lot of things
 - 📫 How to reach me ...LinkedIn, Twitter
 
